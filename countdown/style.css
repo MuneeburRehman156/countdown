@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+body{
+    background-color: wheat;
+}
+.card{
+ width: 60vw !important;
+margin-top: 4%;
+border-radius: 40px;
+}
+img{
+    background-color: blue;
+    width: 60vw;
+    height: 70vh;
+}
+#name{
+    /* background-color: aqua; */
+    font-weight: bold;
+}
+#countdown{
+    /* background-color: blueviolet; */
+}
